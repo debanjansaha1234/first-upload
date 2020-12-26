@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial; 
+    font-style: normal;
+    font-size: large;
+}
+.heading h1{
+    margin: 0;
+    padding: 0;
+    font-family: fantasy;
+    font-size: 3em;
+    color: azure;
+    text-transform: uppercase;
+    text-align: center;
+}
+body{
+    background-image: url("bg-6.gif");
+    background-size: 1540px;
+}
+.heading2{
+    margin: auto;
+    color:azure;
+    position: absolute;
+    font-family:Georgia;
+    top: 10%;
+    left: 13%;
+    font-size: 40px;
+    
+}
