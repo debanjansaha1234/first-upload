@@ -28,7 +28,7 @@ body{
 }
 
 .img1{
-    position:absolute;
+    position:relative;
     height:380px;
     width: 320px;
     top: 10%;
